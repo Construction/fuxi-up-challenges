@@ -18,6 +18,8 @@ Specifically, we are motivated by one of the most popular games released by NetE
 
 So, our goal is to recommend nine items for each user request to maximize the aggregated rewards. Because other user satisfaction indicators are difficult to quantify, here we define the reward as the sum of the users' purchase amount of the nine items. An obvious baseline is to recommend the users' most likely items in each item list, but this strategy does not take into account the relationship between different item lists and cannot achieve the optimal solutions.
 
+![Figure 1](https://cdn.mathpix.com/snip/images/S9UF6fch8HhiTH0pJnFvbp74oRYdnpc1MJA9zl4xxeA.original.fullsize.png)
+
 Remark:
 
 * There are no overlap users between the test set and the train set. So the winning solutions need to avoid the over-fitting problem \(reinforcement learning algorithms are prone to over-fitting\).
