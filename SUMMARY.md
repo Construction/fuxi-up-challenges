@@ -3,7 +3,7 @@
 * [Welcome to FUXI UP Challenges](README.md)
 
 
-## 开放数据竞赛 <a id="challenges"></a>
+## Challenges <a id="challenges"></a>
 
 * [BigDataCup2021 RL4RS Challenge](challenges/BigDataCup2021_RL4RS.md)
 
