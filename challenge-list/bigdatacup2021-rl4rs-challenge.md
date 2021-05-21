@@ -31,7 +31,13 @@ Please refer to Kaggle Page: [https://www.kaggle.com/c/bigdata2021-rl-recsys/lea
 
 ## Track II Leaderboard
 
-We will update the Track II Leadboard every day. The submission result may be delayed by at most one day.
+We will update the Track II Leaderboard every day. The submission result may be delayed by at most one day.
+
+
+
+| Email Name | Score | Entries |
+| :--- | :--- | :--- |
+| nil | nil | nil |
 
 
 
