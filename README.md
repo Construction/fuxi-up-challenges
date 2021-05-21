@@ -16,7 +16,3 @@ We collect many interesting and valuable research topics and relevant datasets f
 
 {% page-ref page="challenge-list/bigdatacup2021-rl4rs-challenge.md" %}
 
-
-
-
-

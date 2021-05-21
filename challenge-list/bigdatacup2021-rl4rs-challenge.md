@@ -2,11 +2,11 @@
 
 ## Big DataCup 2021 <a id="bigdatacup2021"></a>
 
-{% embed url="http://bigdataieee.org/BigData2021/BigDataCupChallenges.html" %}
+{% embed url="http://bigdataieee.org/BigData2021/BigDataCupChallenges.html" caption="" %}
 
 ## Kaggle Challenge Page
 
-{% embed url="https://www.kaggle.com/c/bigdata2021-rl-recsys" %}
+{% embed url="https://www.kaggle.com/c/bigdata2021-rl-recsys" caption="" %}
 
 ## Description
 
@@ -33,11 +33,7 @@ Please refer to Kaggle Page: [https://www.kaggle.com/c/bigdata2021-rl-recsys/lea
 
 We will update the Track II Leaderboard every day. The submission result may be delayed by at most one day.
 
-
-
 | Email Name | Score | Entries |
 | :--- | :--- | :--- |
 | nil | nil | nil |
-
-
 
