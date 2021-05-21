@@ -24,8 +24,11 @@ Remarks:
 + We provide content features of the items as well as anonymized user features, to help the participants explore solutions that are capable of handling the under-explored items well.
 
 
-## Track II Leadboard
-We will update the Track II Leadboard every day. The submission result may be delayed by at most one day.
+## Track I Leaderboard
+Please refer to Kaggle Page: https://www.kaggle.com/c/bigdata2021-rl-recsys/leaderboard
+
+## Track II Leaderboard
+We will update the Track II Leaderboard every day. The submission result may be delayed by at most one day.
 
 | Email Name | Score | Entries |
 | :--- | :--- | :--- |
