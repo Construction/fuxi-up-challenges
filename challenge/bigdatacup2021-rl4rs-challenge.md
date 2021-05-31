@@ -38,4 +38,6 @@ We will update the Track II Leaderboard every day. The submission result may be 
 | Email Name | Score | Ranks |
 | :--- | :--- | :--- |
 | guchunsongwoshi@163.com | 396723759 | 1 |
+| state-of-the-art | 770378225 | nil |
+
 
