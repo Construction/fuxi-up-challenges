@@ -35,7 +35,7 @@ Please refer to Kaggle Page: [https://www.kaggle.com/c/bigdata2021-rl-recsys/lea
 
 We will update the Track II Leaderboard every day. The submission result may be delayed by at most one day.
 
-| Email Name | Score | Entries |
+| Email Name | Score | Ranks |
 | :--- | :--- | :--- |
-| nil | nil | nil |
+| guchunsongwoshi@163.com | 396723759 | 1 |
 
