@@ -41,6 +41,7 @@ We will update the Track II Leaderboard every day. The submission result may be 
 | 374494067@qq.com | 869195386 | 2 |
 | minhpham@usf.edu | 698932003 | 3 |
 | guchunsongwoshi@163.com | 396723759 | 4 |
+| 739662956@qq.com | 221030006 | 5 |
 | baseline | 770378225 | nil |
 
 
