@@ -43,6 +43,7 @@ We will update the Track II Leaderboard every day. The submission result may be 
 | guchunsongwoshi@163.com | 396723759 | 4 |
 | 18819253767@163.com | 326531744 | 5 |
 | 739662956@qq.com | 221030006 | 6 |
+| ariel3124@163.com | 116402344 | 7 |
 | baseline | 770378225 | nil |
 
 
