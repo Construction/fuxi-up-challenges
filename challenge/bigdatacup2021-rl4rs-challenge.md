@@ -38,12 +38,13 @@ We will update the Track II Leaderboard every day. The submission result may be 
 | Email Name | Score | Ranks |
 | :--- | :--- | :--- |
 | 18819253767@163.com | 1337267447 | 1 |
-| 3475635952@qq.com | 1183026648 | 2 |
-| guchunsongwoshi@163.com | 1045938012 | 3 |
-| 374494067@qq.com | 876506389 | 4 |
-| minhpham@usf.edu | 698932003 | 5 |
-| 739662956@qq.com | 221030006 | 6 |
-| ariel3124@163.com | 116402344 | 7 |
+| lzhbrian@gmail.com | 1248223043 | 2 |
+| 3475635952@qq.com | 1183026648 | 3 |
+| guchunsongwoshi@163.com | 1045938012 | 4 |
+| 374494067@qq.com | 876506389 | 5 |
+| minhpham@usf.edu | 698932003 | 6 |
+| 739662956@qq.com | 221030006 | 7 |
+| ariel3124@163.com | 116402344 | 8 |
 | baseline | 770378225 | nil |
 
 
