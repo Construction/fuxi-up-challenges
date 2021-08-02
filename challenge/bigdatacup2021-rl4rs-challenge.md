@@ -37,8 +37,8 @@ We will update the Track II Leaderboard every day. The submission result may be 
 
 | Email Name | Score | Ranks |
 | :--- | :--- | :--- |
-| zj140@mail.ustc.edu.cn | 1445664752 | 1 |
-| 18819253767@163.com | 1337267447 | 2 |
+| 18819253767@163.com | 1655655691 | 1 |
+| zj140@mail.ustc.edu.cn | 1445664752 | 2 |
 | lzhbrian@gmail.com | 1248223043 | 3 |
 | 3475635952@qq.com | 1183026648 | 4 |
 | guchunsongwoshi@163.com | 1045938012 | 5 |
