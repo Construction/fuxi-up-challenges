@@ -37,18 +37,21 @@ We will update the Track II Leaderboard every day. The submission result may be 
 
 | Email Name | Score | Ranks |
 | :--- | :--- | :--- |
-| 18819253767@163.com | 1655655691 | 1 |
-| zj140@mail.ustc.edu.cn | 1445664752 | 2 |
-| minhpham@usf.edu | 1441136258 | 3 |
-| lzhbrian@gmail.com | 1248223043 | 4 |
-| 3475635952@qq.com | 1210506602 | 5 |
-| guchunsongwoshi@163.com | 1045938012 | 6 |
-| mdtq21894.0@gmail.com | 1034843244 | 7 |
-| zoro21894.2@gmail.com | 978850713 | 8 |
-| 374494067@qq.com | 876506389 | 9 |
-| mdtq21894@gmail.com | 649613204 | 10 |
-| 739662956@qq.com | 221030006 | 11 |
-| ariel3124@163.com | 116402344 | 12 |
+| zoro21894.2@gmail.com | 2037940935 | 1 |
+| 18819253767@163.com | 1655655691 | 2 |
+| zj140@mail.ustc.edu.cn | 1445664752 | 3 |
+| minhpham@usf.edu | 1441136258 | 4 |
+| lzhbrian@gmail.com | 1248223043 | 5 |
+| 3475635952@qq.com | 1210506602 | 6 |
+| zoro21894@gmail.com | 1090203696 | 7 |
+| guchunsongwoshi@163.com | 1045938012 | 8 |
+| mdtq21894.0@gmail.com | 1034843244 | 9 |
+| 374494067@qq.com | 876506389 | 10 |
+| mdtq21894@gmail.com | 649613204 | 11 |
+| mdtq21894.1@gmail.com | 508183451 | 12 |
+| zoro21894.1@gmail.com | 441262443 | 13 |
+| 739662956@qq.com | 221030006 | 14 |
+| ariel3124@163.com | 116402344 | 15 |
 | baseline | 770378225 | nil |
 
 
