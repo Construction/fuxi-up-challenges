@@ -39,8 +39,8 @@ We will update the Track II Leaderboard every day. The submission result may be 
 | :--- | :--- | :--- |
 | 18819253767@163.com | 2138383937 | 1 |
 | zoro21894.2@gmail.com | 2037940935 | 2 |
-| minhpham@usf.edu | 1534682241 | 3 |
-| zj140@mail.ustc.edu.cn | 1449566197 | 4 |
+| minhpham@usf.edu | 1885305034 | 3 |
+| zj140@mail.ustc.edu.cn | 1463773657 | 4 |
 | lzhbrian@gmail.com | 1248223043 | 5 |
 | 3475635952@qq.com | 1210506602 | 6 |
 | zoro21894@gmail.com | 1090203696 | 7 |
@@ -50,8 +50,8 @@ We will update the Track II Leaderboard every day. The submission result may be 
 | mdtq21894@gmail.com | 649613204 | 11 |
 | mdtq21894.1@gmail.com | 508183451 | 12 |
 | zoro21894.1@gmail.com | 441262443 | 13 |
-| 739662956@qq.com | 221030006 | 14 |
-| ariel3124@163.com | 116402344 | 15 |
+| ariel3124@163.com | 225149013 | 14 |
+| 739662956@qq.com | 221030006 | 15 |
 | baseline | 770378225 | nil |
 
 
