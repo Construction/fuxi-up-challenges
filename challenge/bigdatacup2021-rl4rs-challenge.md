@@ -37,9 +37,9 @@ We will update the Track II Leaderboard every day. The submission result may be 
 
 | Email Name | Score | Ranks |
 | :--- | :--- | :--- |
-| 18819253767@163.com | 2138383937 | 1 |
-| zoro21894.2@gmail.com | 2037940935 | 2 |
-| minhpham@usf.edu | 1885305034 | 3 |
+| minhpham@usf.edu | 2148162972 | 1 |
+| 18819253767@163.com | 2138383937 | 2 |
+| zoro21894.2@gmail.com | 2037940935 | 3 |
 | zj140@mail.ustc.edu.cn | 1463773657 | 4 |
 | lzhbrian@gmail.com | 1248223043 | 5 |
 | 3475635952@qq.com | 1210506602 | 6 |
