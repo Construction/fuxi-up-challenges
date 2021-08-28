@@ -49,8 +49,8 @@ We will update the Track II Leaderboard every day. The submission result may be 
 | 374494067@qq.com | 876506389 | 10 |
 | mdtq21894@gmail.com | 649613204 | 11 |
 | mdtq21894.1@gmail.com | 508183451 | 12 |
-| zoro21894.1@gmail.com | 441262443 | 13 |
-| ariel3124@163.com | 225149013 | 14 |
+| ariel3124@163.com | 490252340 | 13 |
+| zoro21894.1@gmail.com | 441262443 | 14 |
 | 739662956@qq.com | 221030006 | 15 |
 | baseline | 770378225 | nil |
 
