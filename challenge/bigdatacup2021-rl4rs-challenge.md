@@ -42,19 +42,20 @@ We will update the Track II Leaderboard every day. The submission result may be 
 | zoro21894.2@gmail.com | 2037940935 | 3 |
 | chenhch8@qq.com | 1606808289 | 4 |
 | zj140@mail.ustc.edu.cn | 1463773657 | 5 |
-| lzhbrian@gmail.com | 1248223043 | 6 |
-| 3475635952@qq.com | 1210506602 | 7 |
-| zoro21894@gmail.com | 1090203696 | 8 |
-| feizhoucsu@foxmail.com | 1073956903 | 9 |
-| guchunsongwoshi@163.com | 1045938012 | 10 |
-| mdtq21894.0@gmail.com | 1034843244 | 11 |
-| 374494067@qq.com | 876506389 | 12 |
-| mdtq21894@gmail.com | 649613204 | 13 |
-| mdtq21894.1@gmail.com | 508183451 | 14 |
-| ariel3124@163.com | 490252340 | 15 |
-| zoro21894.1@gmail.com | 441262443 | 16 |
-| 1023116033@qq.com | 435865274 | 17 |
-| 739662956@qq.com | 221030006 | 18 |
+| chensysu2021@126.com | 1382709937 | 6 |
+| lzhbrian@gmail.com | 1248223043 | 7 |
+| 3475635952@qq.com | 1210506602 | 8 |
+| zoro21894@gmail.com | 1090203696 | 9 |
+| feizhoucsu@foxmail.com | 1073956903 | 10 |
+| guchunsongwoshi@163.com | 1045938012 | 11 |
+| mdtq21894.0@gmail.com | 1034843244 | 12 |
+| 374494067@qq.com | 876506389 | 13 |
+| mdtq21894@gmail.com | 649613204 | 14 |
+| mdtq21894.1@gmail.com | 508183451 | 15 |
+| ariel3124@163.com | 490252340 | 16 |
+| zoro21894.1@gmail.com | 441262443 | 17 |
+| 1023116033@qq.com | 435865274 | 18 |
+| 739662956@qq.com | 221030006 | 19 |
 
 
 
