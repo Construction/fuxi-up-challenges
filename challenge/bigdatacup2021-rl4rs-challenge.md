@@ -31,7 +31,7 @@ Remark:
 
 Please refer to Kaggle Page: [https://www.kaggle.com/c/bigdata2021-rl-recsys/leaderboard](https://www.kaggle.com/c/bigdata2021-rl-recsys/leaderboard)
 
-## Track II Leaderboard
+## Track II Leaderboard (public)
 
 We will update the Track II Leaderboard every day. The submission result may be delayed by at most one day.
 
@@ -61,5 +61,30 @@ We will update the Track II Leaderboard every day. The submission result may be 
 | 739662956@qq.com | 221030006 | 22 |
 
 
+## Track II Leaderboard (private)
 
+| Email Name | Score | Ranks |
+| :--- | :--- | :--- |
+| minhpham@usf.edu | 2313939191 | 1 |
+| 18819253767@163.com | 2279442707 | 2 |
+| zoro21894.2@gmail.com | 2124250756 | 3 |
+| chensysu2021@126.com | 1796674369 | 4 |
+| zj140@mail.ustc.edu.cn | 1794936509 | 5 |
+| chenhch8@qq.com | 1765337506 | 6 |
+| markusjiafeng@163.com | 1356365083 | 7 |
+| feizhoucsu@foxmail.com | 1284825612 | 8 |
+| zoro21894@gmail.com | 1273884745 | 9 |
+| lzhbrian@gmail.com | 1248223043 | 10 |
+| mdtq21894.0@gmail.com | 1229902608 | 11 |
+| 3475635952@qq.com | 1210506602 | 12 |
+| 374494067@qq.com | 1123377754 | 13 |
+| nsh@usf.edu | 1088649428 | 14 |
+| mdtq21894@gmail.com | 1083473047 | 15 |
+| guchunsongwoshi@163.com | 1045938012 | 16 |
+| nancochow@gmail.com | 659676246 | 17 |
+| mdtq21894.1@gmail.com | 600853147 | 18 |
+| ariel3124@163.com | 567588099 | 19 |
+| 1023116033@qq.com | 518156457 | 20 |
+| zoro21894.1@gmail.com | 516851399 | 21 |
+| 739662956@qq.com | 245527963 | 22 |
 
