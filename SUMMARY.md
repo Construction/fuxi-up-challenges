@@ -6,5 +6,5 @@
 
 * [BigDataCup2021 RL4RS Challenge](challenge/bigdatacup2021-rl4rs-challenge.md)
 
-## Dataset&Benchmark
+## Dataset
 * [RL4RS](dataset/rl4rs.md)
