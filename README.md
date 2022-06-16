@@ -16,3 +16,8 @@ We collect many interesting and valuable research topics and relevant datasets f
 
 {% page-ref page="challenge/bigdatacup2021-rl4rs-challenge.md" %}
 
+## About datasets and benchmarks
+Aligning with challenges, these excellent participants and us also explore the performance of current SOTA methods on some specific tasks. Therefore we collect these tasks, data and metrics included, and the corresponding baselines to build a lot of benchmarks.
+
+## Datasets&Benchmark List
+{% page-ref page="dataset/rl4rs.md" %}
